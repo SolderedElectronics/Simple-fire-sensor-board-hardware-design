@@ -1,5 +1,5 @@
 SKU: 333047
 Full product name: Simple fire sensor board
 Country of origin: Croatia
-HS tariff code: 85414025  
+HS tariff code: 85340090
 EAN/UPC barcode: 732388672202
